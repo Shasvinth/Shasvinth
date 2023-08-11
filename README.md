@@ -3,11 +3,7 @@
 **`Digital Creator (Developer/Designer/Entrepreneur)`**
 
 I'm a full-stack developer and an entrepreneur interested in building projects related to Artificial intelligence, from planning and designing all the way to solving real-life problems with code and AI. 
-## Stats
 
-<a href="https://github.com/Shasvinth/Shasvinth">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shasvinth&show_icons=true&include_all_commits=false&line_height=33&theme=radical" />
-</a>
 
 ---
 ## Tools & Languages
@@ -24,4 +20,9 @@ I'm a full-stack developer and an entrepreneur interested in building projects r
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+## Stats
+
+<a href="https://github.com/Shasvinth/Shasvinth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shasvinth&show_icons=true&include_all_commits=false&line_height=33&theme=radical" />
+</a>
 
