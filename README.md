@@ -9,7 +9,7 @@ I'm a full-stack developer and an entrepreneur interested in building projects r
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shasvinth&show_icons=true&include_all_commits=false&line_height=33&theme=radical" />
 </a>
 
-
+<br />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -22,7 +22,7 @@ I'm a full-stack developer and an entrepreneur interested in building projects r
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
-
+<br />
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 ![Pycharm](https://img.shields.io/badge/PyCharm-green?logo=PyCharm)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ-IDEA)
