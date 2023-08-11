@@ -24,7 +24,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -39,7 +38,6 @@
 
 </br>
 
-## Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shasvinth" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&locale=en&theme=tokyonight" alt="shasvinth" /></p>
 
