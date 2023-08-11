@@ -1,5 +1,8 @@
 ## 😎 Shasvinth Srikanth
 
+**`Digital Creator (Developer/Designer/Entrepreneur)`**
+
+I'm a full-stack developer and an entrepreneur interested in building projects related to Artificial intelligence, from planning and designing all the way to solving real-life problems with code and AI. 
 ## Stats
 
 <a href="https://github.com/Shasvinth/Shasvinth">
