@@ -10,20 +10,23 @@ I'm a full-stack developer and an entrepreneur interested in building projects r
 </a>
 
 
-
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-SQL-003B57?&logo=postgresql)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?&logo=TypeScript&logoColor=ffffff)
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<br />
 
 ![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?logo=Visual-studio-code)
 ![Pycharm](https://img.shields.io/badge/PyCharm-green?logo=PyCharm)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?logo=IntelliJ-IDEA)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim)
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?logo=git&logoColor=%23ffffff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000000)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?&logo=Amazon-AWS&logoColor=FF9900)
-![Postgres](https://img.shields.io/badge/-Postgres-4479A1?logo=Postgresql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=ffffff)
+
 
