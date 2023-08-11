@@ -36,10 +36,11 @@
     <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
     <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shasvinth" /></p>
+
 </br>
 
 ## Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shasvinth" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&locale=en&theme=tokyonight" alt="shasvinth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shasvinth&&theme=tokyonight" alt="shasvinth" /></p>
