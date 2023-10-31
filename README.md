@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Python , MEARN**
+- 💬 Ask me about **Python , MERN**
 
 - ⚡ Fun fact **I know jokes**
 
