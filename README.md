@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shasvinth&label=Profile%20views&color=0e75b6&style=flat" alt="shasvinth" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Shasvinth_Sri" target="blank"><img src="https://img.shields.io/twitter/follow/shasvinth?logo=twitter&style=for-the-badge" alt="shasvinth" /></a> </p>
 
 - 🔭 I’m currently working on **CurriculumX**
 
