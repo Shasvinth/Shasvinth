@@ -12,8 +12,6 @@
 
 - ⚡ Fun fact **I know jokes**
 
-<h3 align="left">Connect with me:</h3>
-
 <h3 align="left">Languages and Tools:</h3>
     <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
