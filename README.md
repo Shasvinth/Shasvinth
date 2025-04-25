@@ -1,20 +1,30 @@
 [![ShasvinthSrikanth](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://shasvinth.io)
 
 <h1 align="center">Hi 👋, I'm Shasvinth Srikanth</h1>
-<h3 align="center">Digital Creator (Developer/Designer/Entrepreneur)</h3>
+<h3 align="center">Digital Creator (Developer / Designer / Entrepreneur)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shasvinth&label=Profile%20views&color=0e75b6&style=flat" alt="shasvinth" />
 </p>
 
-- 🔭 I’m currently working on **CurriculumX**  
-- 🌱 I’m currently learning **Flutter**  
-- 💬 Ask me about **Python, MERN**  
-- ⚡ Fun fact **I know jokes**
+---
+
+> ⚡ **"Elegance in every step, success in every move."**  
+> 🔥 Building things that spark minds and break limits.
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🚀 About Me
+
+- 🛠 I’m currently working on **CurriculumX**  
+- 🌱 Learning the magic of **Flutter**  
+- 💬 Ask me about **Python, MERN, Design & Dev Collabs**  
+- 🎯 Goal: Create impactful digital tools that empower others  
+- 😄 Fun fact: I don’t just code — I create stories through tech
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -40,6 +50,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shasvinth&theme=tokyonight" alt="GitHub Streak" />
-</p>
+
+---
+
+> 🎨 **Unique with it.** Driven by creativity, powered by logic.
