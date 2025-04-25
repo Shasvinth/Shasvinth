@@ -9,7 +9,7 @@
 
 ---
 
-> ⚡ **"Elegance in every step, success in every move."**  
+> ✨ **"Elegance in every move, success in every step."**  
 > 🔥 Building things that spark minds and break limits.
 
 ---
