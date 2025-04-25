@@ -39,7 +39,7 @@
   <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
-<img src="https://github-profile-trophy.vercel.app/?username=shasvinth&theme=tokyonight&no-frame=true" />
+
 ---
 
 ## 📊 GitHub Stats
