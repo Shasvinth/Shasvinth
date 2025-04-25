@@ -48,7 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
