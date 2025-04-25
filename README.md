@@ -53,4 +53,4 @@
 
 ---
 
-> 🎨 **Unique with it.** Driven by creativity, powered by logic.
+> Driven by creativity, powered by logic.
