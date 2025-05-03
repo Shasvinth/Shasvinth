@@ -50,8 +50,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shasvinth&theme=react" width="49.7%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shasvinth&theme=react&utcOffset=8" width="49.7%">
 
 ---
 
