@@ -16,11 +16,11 @@
 
 ### 🚀 About Me
 
-- 🛠 I’m currently working on **CurriculumX**  
+- 🛠 I'm currently working on **CurriculumX**  
 - 🌱 Learning the magic of **Flutter**  
 - 💬 Ask me about **Python, MERN, Design & Dev Collabs**  
 - 🎯 Goal: Create impactful digital tools that empower others  
-- 😄 Fun fact: I don’t just code — I create stories through tech
+- 😄 Fun fact: I don't just code — I create stories through tech
 
 ---
 
@@ -45,10 +45,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&count_private=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&count_private=true&layout=compact&theme=tokyonight&include_orgs=true" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&include_all_commits=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&include_all_commits=true&theme=tokyonight&include_orgs=true" alt="GitHub Stats" />
 </p>
 
 ---
