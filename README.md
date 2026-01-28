@@ -1,61 +1,28 @@
-[![ShasvinthSrikanth](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://shasvinth.io)
+## Hi, I'm Shasvinth Srikanth
 
-<h1 align="center">Hi 👋, I'm Shasvinth Srikanth</h1>
-<h3 align="center">Digital Creator (Developer / Designer / Entrepreneur)</h3>
+Student AI & Web Developer focused on building practical, scalable systems.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shasvinth&label=Profile%20views&color=0e75b6&style=flat" alt="shasvinth" />
-</p>
+I work mainly on web-based platforms and AI-driven tools that solve real problems,
+with an emphasis on clean architecture and thoughtful UI.
 
----
+### Currently
+- Building AI-powered and web platforms
+- Exploring system design and scalable frontends
+- Learning Flutter for cross-platform development
 
-> ✨ **"Elegance in every move, success in every step."**  
-> 🔥 Building things that spark minds and break limits.
+### Core Technologies
+- JavaScript / TypeScript
+- React, Next.js, Node.js
+- Python
+- Firebase
+- Tailwind CSS
 
----
+### Focus Areas
+- AI-integrated web applications  
+- Internal tools and platforms  
+- UI/UX-driven system design  
 
-### 🚀 About Me
-
-- 🛠 I'm currently working on **CurriculumX**  
-- 🌱 Learning the magic of **Flutter**  
-- 💬 Ask me about **Python, MERN, Design & Dev Collabs**  
-- 🎯 Goal: Create impactful digital tools that empower others  
-- 😄 Fun fact: I don't just code — I create stories through tech
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="left">
-  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img alt="Bash" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&count_private=true&layout=compact&theme=tokyonight&include_orgs=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&include_all_commits=true&theme=tokyonight&include_orgs=true" alt="GitHub Stats" />
-</p>
-
----
-
-> Driven by creativity, powered by logic.
-
-
+Most of my work lives in the pinned repositories below.
 ---
 
 ## 📊 GitHub Stats
