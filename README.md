@@ -1,29 +1,37 @@
-## Hi, I'm Shasvinth Srikanth
+[![ShasvinthSrikanth](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://shasvinth.io)
 
-Student AI & Web Developer focused on building practical, scalable systems.
+<h1 align="center">Hi, I'm Shasvinth Srikanth</h1>
+<h3 align="center">Student AI & Web Developer</h3>
 
-I work mainly on web-based platforms and AI-driven tools that solve real problems,
-with an emphasis on clean architecture and thoughtful UI.
-
-### Currently
-- Building AI-powered and web platforms
-- Exploring system design and scalable frontends
-- Learning Flutter for cross-platform development
-
-### Core Technologies
-- JavaScript / TypeScript
-- React, Next.js, Node.js
-- Python
-- Firebase
-- Tailwind CSS
-
-### Focus Areas
-- AI-integrated web applications  
-- Internal tools and platforms  
-- UI/UX-driven system design  
-
-Most of my work lives in the pinned repositories below.
 ---
+
+### About
+
+I build web-based platforms and AI-driven systems with a focus on clarity,
+scalability, and thoughtful user experience.
+
+Currently exploring system design patterns, AI integrations,
+and cross-platform development.
+
+---
+
+### Technologies
+
+<p align="left">
+  <img alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
+
+---
+
+Most of my work can be found in the pinned repositories below.
 
 ## 📊 GitHub Stats
 
