@@ -31,17 +31,4 @@ and cross-platform development.
 
 ---
 
-Most of my work can be found in the pinned repositories below.
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shasvinth&show_icons=true&locale=en&count_private=true&layout=compact&theme=tokyonight&include_orgs=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shasvinth&show_icons=true&include_all_commits=true&theme=tokyonight&include_orgs=true" alt="GitHub Stats" />
-</p>
-
----
-
 > Driven by creativity, powered by logic.
